@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.pbmuller.dander.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.pbmuller.dander.MyBundle
 
 class MyApplicationService {
 
